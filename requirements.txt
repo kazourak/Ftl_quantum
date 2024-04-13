@@ -1,2 +1,4 @@
 qiskit==0.45.0
 qiskit-ibm-provider
+matplotlib
+qiskit-aer
