@@ -1,5 +1,5 @@
 run: /venv/bin/activate
-	. venv/bin/activate; python3 main.py
+	. venv/bin/activate
 
 /venv/bin/activate: requirements.txt
 	test -d venv || python3 -m venv venv
